@@ -1,0 +1,1 @@
+"./interrupt.obj" "./main.obj" "../lnk_msp430f5438a.cmd" -llibmath.a -llibc.a 
